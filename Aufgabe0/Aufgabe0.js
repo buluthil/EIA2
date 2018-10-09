@@ -4,7 +4,7 @@ function main() {
     node.innerHTML += "Gruezi";
     node.innerHTML += i;
     node.innerHTML += ",  Liebe Grueße von Hilal!";
-    console.log("Gruezi", i, ", willkommen bei EIA2!");
+    console.log("Gruezi", i, " willkommen bei EIA2!");
 }
-document.addEventListener('DOMContentLoaded', main);
+document.addEventListener("DOMContentLoaded", main);
 //# sourceMappingURL=Aufgabe0.js.map
