@@ -1,0 +1,109 @@
+@CHARSET "utf-8";
+
+body{
+	background-color:#66ccff;
+}
+
+.red{
+	background-color: red;
+	color:white;
+	width: 150px;
+	height:230px;
+	border:black;
+    font-size:2em;
+	text-align:center;
+	
+	
+	}
+
+.blue{
+	background-color: blue;
+	color:white;
+	width:150px;
+	height:230px;
+	border:black;
+	font-size:2em;
+	text-align:center;
+	
+
+}
+
+.green{
+	background-color: green;
+	color:white;
+	width:150px;
+	height:230px;
+	border:black;
+	font-size:2em;
+	text-align:center;
+	
+	
+	}
+	
+	
+.yellow{
+	background-color:#feea00;
+	color:white;
+	width:150px;
+	height:230px;
+	border:black;
+	font-size:2em;
+	text-align:center;
+	
+	}
+
+.black{
+	background-color: black;
+	width:150px;
+	height:230px;
+	border:black;
+	color:white;
+	font-size:2em;
+	text-align:center;
+
+	
+}
+
+
+#Unocards{
+	width:100%;
+	border-style: solid;
+	border-width: 1px;
+	height:300px;
+	bottom: 0px;
+	position: absolute;
+}
+
+.Unocards {
+	display: inline-block;
+	bottom:0px; 
+	margin: 7px;
+	
+	}
+
+
+
+#Traystack{
+	background-color: #800080;
+	color:white;
+	font-size:2em;
+	width:150px;
+	height:250px;
+	border:black;
+	position:absolute;
+	right:0px;
+	top:0px;
+	
+}
+
+#Deck{
+	background-color: #000080;
+	color:white;
+	font-size:2em;
+	width:150px;
+	height:250px;
+	border:black;
+	
+	
+}
+
