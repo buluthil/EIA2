@@ -1,7 +1,13 @@
 @CHARSET "utf-8";
 
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
 body{
 	background-color:#66ccff;
+	font-family: 'Courgette', cursive;
 }
 
 .red{
