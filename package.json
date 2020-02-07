@@ -1,0 +1,19 @@
+{
+  "name": "buluthil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buluthil/EIA2.git"
+  },
+  "author": "Hilal Bulut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buluthil/EIA2/issues"
+  },
+  "homepage": "https://github.com/buluthil/EIA2#readme"
+}
